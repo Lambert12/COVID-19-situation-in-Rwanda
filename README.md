@@ -5,3 +5,4 @@ The estimation of the case fatality rate (CFR) in Africa ranges between (1.0%-5.
 CITATION:
 Estimation of fatality rate in Africa through the behavior of COVID-19 in Italy relevance to age profiles
 Authors. NZUNGIZE LAMBERT, Diane UMUHOZA, Yongdong Dai, Stech A E NZAOU, Mohammed Asaad, MA Abokadoum, Ulrich Aymard Ekomi Moure, Jianping Xie.(2020). MedRxiv
+doi: https://doi.org/10.1101/2020.06.21.20129049
